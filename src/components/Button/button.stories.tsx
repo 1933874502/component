@@ -2,7 +2,7 @@ import { ComponentMeta, ComponentStory } from "@storybook/react"
 import Button from "./button"
 
 export default {
-  title: "第四章：Button",
+  title: "Button",
   component: Button,
   // More on argTypes: https://storybook.js.org/docs/react/api/argtypes
 } as ComponentMeta<typeof Button>
